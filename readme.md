@@ -41,5 +41,7 @@ Follow these steps to set up the project locally:
 
 
 ## API Urls
-1. http://127.0.0.1:8000/api/       for all data view, POST
-1. http://127.0.0.1:8000/api/<int:id>  for get, put 
+- for all data view, POST
+1. http://127.0.0.1:8000/api/       
+- for get, put 
+1. http://127.0.0.1:8000/api/<int:id>    
